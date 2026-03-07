@@ -6,7 +6,7 @@ Hi, I'm **Krishna Soni**
 - 🎓 Currently I'm in final year of **BCA at TMU**
 - 💻 Strong interest in **Web Development & the MERN Stack**
 - 🌱 Actively learning and working with **React, Node.js, Express, and MongoDB**
-- 🚀 Passionate about building real-world full-stack applications using **MongoDB, Node.js, React, Express**, along with tools like **Docker, Linux, Cloudinary, Postman, and Zustand**
+- 🚀 Passionate about building real-world full-stack applications using **MongoDB, Node.js, React, Express**, along with tools like **Docker, Linux, AWS, Cloudinary, Postman, and Zustand**
 - 
 ## 🛠️ Skills
 
@@ -14,7 +14,7 @@ Hi, I'm **Krishna Soni**
 - **Frontend:** HTML, CSS, React.js  
 - **Backend:** Node.js, Express.js  
 - **Database:** MongoDB  
-- **Tools & Platforms:** Git, GitHub, Docker, Linux, Postman, Cloudinary  
+- **Tools & Platforms:** Git, GitHub, AWS, Linux, Postman, Cloudinary, OPEN AI  
 
 ## 🤝 Collaboration
 - 💡 Open to collaborate on **Frontend / MERN projects**
